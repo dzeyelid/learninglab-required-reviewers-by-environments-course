@@ -1,10 +1,13 @@
-title: ' learninglab-required-reviewers-by-environments'
-description: >-
-  A course of GitHub Learning Lab to learn how to set up required reviews by
-  environments.
+title: Required reviewers by environments
+description: Let's learn how to set up required reviews by environments.
 template:
   repo: learninglab-required-reviewers-by-environments-template
   name: learninglab-required-reviewers-by-environments
+  description: Let's learn how to set up required reviews by environments.
+tags:
+  - learning-lab
+  - GitHub Learning Lab
+  - GitHub Environments
 before:
   - type: createIssue
     title: Welcome!
